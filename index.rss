@@ -26,7 +26,7 @@
 		<itunes:category text="Education">
 			<itunes:category text="How To"/>
 		</itunes:category>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/30272744/30272744-1662374037945-b5d92c3eb778a.jpg"/>
+		<itunes:image href="https://miro.medium.com/max/800/0*0ZgS_Z1-5VBdbN3u.png"/>
 		<item>
 			<title><![CDATA[Complete RoadMap on How to learn MERN stack]]></title>
 			<description><![CDATA[<p>Helps the users to understand web stack technologies</p>
@@ -40,7 +40,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:01:01</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/30272744/30272744-1662373927270-d3dfe1979993c.jpg"/>
+			<itunes:image href="https://miro.medium.com/max/800/0*0ZgS_Z1-5VBdbN3u.png"/>
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
