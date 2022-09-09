@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Complete Road Map on MERN stack web development]]></title>
+		<description><![CDATA[This podcast helps the users to take decision on how to learn web devlopments technnlogies]]></description>
+		<link>https://anchor.fm/mohammed-hassan19</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/30272744/30272744-1662374037945-b5d92c3eb778a.jpg</url>
+			<title>Complete Road Map on MERN stack web development</title>
+			<link>https://anchor.fm/mohammed-hassan19</link>
+		</image>
+		<generator>Fledge Podcasts</generator>
+		<lastBuildDate>Mon, 05 Sep 2022 10:44:03 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/b5092120/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Mohammed Hassan]]></author>
+		<copyright><![CDATA[Mohammed Hassan]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Mohammed Shais Sheikh</itunes:author>
+		<itunes:summary>This podcast helps the users to take decision on how to learn web devlopments technnlogies</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Mohammed  Shais Sheikh</itunes:name>
+			<itunes:email>mohammedhassan8055006667@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Education">
+			<itunes:category text="How To"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/30272744/30272744-1662374037945-b5d92c3eb778a.jpg"/>
+		<item>
+			<title><![CDATA[Complete RoadMap on How to learn MERN stack]]></title>
+			<description><![CDATA[<p>Helps the users to understand web stack technologies</p>
+]]></description>
+			<link>https://anchor.fm/mohammed-hassan19/episodes/Complete-RoadMap-on-How-to-learn-MERN-stack-e1nda06</link>
+			<guid isPermaLink="false">916ac701-a631-431b-b632-ffa46853c69d</guid>
+			<dc:creator><![CDATA[Mohammed Hassan]]></dc:creator>
+			<pubDate>Mon, 05 Sep 2022 10:34:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b5092120/podcast/play/57107910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-5%2F3eb67c2b-a9c1-23fc-d4a0-db386e0babac.mp3" length="2455152" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Helps the users to understand web stack technologies&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/30272744/30272744-1662373927270-d3dfe1979993c.jpg"/>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
